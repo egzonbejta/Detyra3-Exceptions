@@ -1,0 +1,27 @@
+--------------------------1.
+DONE
+Exception in thread "main" java.lang.NumberFormatException: For input string: "A"
+--------------------------2.
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 5
+--------------------------3.
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+--------------------------4.
+ERROR 3
+DONE BAR
+DONE
+--------------------------5.
+5
+java.lang.ArrayIndexOutOfBoundsException: 5
+DONE METHODX
+DONE BAR
+DONE
+--------------------------6.
+DONE METHODX
+DONE BAR
+DONE
+--------------------------7.
+DONE METHODX
+Exception in thread "main" DONE
+java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+--------------------------8.
+PROGRAM LINE C
